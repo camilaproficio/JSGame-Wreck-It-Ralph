@@ -2,6 +2,8 @@
 
 Welcome to **JSGame Wreck-It Ralph**! In this repository, you'll find a fun game inspired by the famous movie *Wreck-It Ralph*. This project not only provides entertainment but also demonstrates various advanced game development techniques using JavaScript.
 
+[Click here]([https://camilaproficio.github.io/Landing-Page-DIO/](https://camilaproficio.github.io/JSGame-Wreck-It-Ralph/) to view the final result of the **JSGame Wreck-It Ralph**.
+
 ## Technologies Used
 - **HTML5 and CSS3**: For the game's structure and appearance.
 - **JavaScript**: For programming logic and interactivity.
